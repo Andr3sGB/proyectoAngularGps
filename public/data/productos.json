@@ -1,0 +1,71 @@
+[
+  {
+    "_id": "1",
+    "nombre": "GPS Trace5",
+    "descripcion": "Es un rastreador de localización automática de vehículos (AVL) compacto basado en GNSS con todas las funciones esenciales para el seguimiento de vehículos y la gestión de flotas. Adquiere su posición con una señal GNSS y transfiere datos a un servidor a través de redes celulares LTE Cat1, o GSM. Este rastreador GNSS utiliza conectividad 2G (GSM) y LTE Cat1 (4G) y un módulo GNSS premium de U-blox.",
+    "categoria":["vehicular", "gps"],
+    "imageUrl":[
+      "../../../img/products/gps/1.jpeg",
+      "../../../img/productos/gps/2.jpeg",
+      "../../../img/productos/gps/3.jpeg",
+      "../../../img/productos/gps/4.jpeg"
+    ],
+    "precio_venta": 230000,
+    "precio_regular": 295000,
+    "create_at": "2023-05-25T12:05:24.150x",
+
+    "slug": "tipo-gps"
+
+  },
+  {
+    "_id": "2",
+    "nombre": "GPS HCV5",
+    "descripcion":"Es un rastreador GPS avanzado para camiones, autobuses, agricultura y otra maquinaria especializada. Está diseñado para el seguimiento de vehículos y puede realizar tareas avanzadas: leer datos de la computadora a bordo (CAN), monitorear el comportamiento del conductor, descargar datos del tacógrafo de forma remota, administrar el combustible, etc. El dispositivo está disponible en variantes que utilizan redes GSM (2G) o LTE Cat M1/NB-IoT (4G) y Bluetooth para comunicación. La red NB-IoT está incluida en la variación LTE Cat M1.",
+    "categoria":["vehicular", "gps"],
+    "imageUrl":[
+      "../../../img/products/gps/2.jpeg",
+      "../../../img/products/gps/1.jpeg",
+      "../../../img/products/gps/3.jpeg",
+      "../../../img/products/gps/4.jpeg"
+    ],
+    "precio_venta": 295000,
+    "precio_regular": 3840000,
+    "create_at": "2023-05-25T12:05:24.150x",
+    "slug": "tipo-gps"
+
+  },
+  {
+    "_id": "3",
+    "nombre": "GPS FM-Pro4",
+    "descripcion": "Es un dispositivo de rastreo GPS para vehículos pesados. Este dispositivo está diseñado para el seguimiento de vehículos y tareas de monitoreo y puede obtener información de protocolos CANbus estándar como FMS, J1708 y J1939. El dispositivo se comunica mediante redes GSM (2G), y también está disponible en una versión compatible con UMTS (3G) – FM-Pro4 3G",
+    "categoria":["vehicular", "gps"],
+    "imageUrl":[
+      "../../../img/products/gps/3.jpeg",
+      "../../../img/products/gps/1.jpeg",
+      "../../../img/products/gps/2.jpeg",
+      "../../../img/products/gps/4.jpeg"
+    ],
+    "precio_venta": 305000,
+    "precio_regular": 420000,
+    "create_at": "2023-05-25T12:05:24.150x",
+    "slug": "tipo-gps"
+
+  },
+  {
+    "_id": "4",
+    "nombre": "GPS ST3310/W/R",
+    "descripcion": "Es un rastreador de vehículos hermético para motos o maquinaria pesada. Este equipo AVL Cuenta con análisis de patrón de manejo, reconstrucción de accidentes, formatos de reportes configurables (UP), ignición virtual, geocercas (poligonal y circular) y más.",
+    "categoria":["vehicular", "gps"],
+    "imageUrl":[
+      "../../../img/products/gps/4.jpeg",
+      "../../../img/products/gps/1.jpeg",
+      "../../../img/products/gps/2.jpeg",
+      "../../../img/products/gps/3.jpeg"
+    ],
+    "precio_venta": 185000,
+    "precio_regular": 235000,
+    "create_at": "2023-05-25T12:05:24.150x",
+    "slug": "tipo-gps"
+
+  }
+]

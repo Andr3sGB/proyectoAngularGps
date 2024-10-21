@@ -1,0 +1,14 @@
+<div class="flex flex-wrap -m-4">
+  <app-producto-item *ngFor="let producto of producto" [producto]="producto"></app-producto-item>
+</div>
+<div *ngIf="!producto.length">
+  <div class="flex flex-col text-center w-full mb-12">
+    <div class="ps-section__content mx-auto">
+      <img src="../../../img/404.jpg"alt="">
+    </div>
+   <h3>Ohh! no hay productos en inventario</h3>
+  </div>
+  <button
+  class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-accent rounded text-lg">Regresar</button>
+
+</div>
