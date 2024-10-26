@@ -13,6 +13,9 @@ import { HttpClientModule } from '@angular/common/http';
 import { ProductoListComponent } from './components/producto-list/producto-list.component';
 import { ProductoItemComponent } from './components/producto-item/producto-item.component';
 import { ProductoComponent } from './components/producto/producto.component';
+import { PaymentCardComponent } from './components/payment-card/payment-card.component';
+import { ServiciosComponent } from './components/servicios/servicios.component';
+import { ContactoComponent } from './components/contacto/contacto.component';
 
 
 @NgModule({
@@ -25,7 +28,10 @@ import { ProductoComponent } from './components/producto/producto.component';
     SignupComponent,
     ProductoListComponent,
     ProductoItemComponent,
-    ProductoComponent
+    ProductoComponent,
+    PaymentCardComponent,
+    ServiciosComponent,
+    ContactoComponent
   ],
   imports: [
     BrowserModule,

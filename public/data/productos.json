@@ -6,15 +6,15 @@
     "categoria":["vehicular", "gps"],
     "imageUrl":[
       "../../../img/products/gps/1.jpeg",
-      "../../../img/productos/gps/2.jpeg",
-      "../../../img/productos/gps/3.jpeg",
-      "../../../img/productos/gps/4.jpeg"
+      "../../../img/productos/gps/14.jpg",
+      "../../../img/productos/gps/13.jpg",
+      "../../../img/productos/gps/16.png"
     ],
     "precio_venta": 230000,
     "precio_regular": 295000,
     "create_at": "2023-05-25T12:05:24.150x",
 
-    "slug": "tipo-gps"
+    "slug": "tipo-gps-Trace5"
 
   },
   {
@@ -24,14 +24,14 @@
     "categoria":["vehicular", "gps"],
     "imageUrl":[
       "../../../img/products/gps/2.jpeg",
-      "../../../img/products/gps/1.jpeg",
-      "../../../img/products/gps/3.jpeg",
-      "../../../img/products/gps/4.jpeg"
+      "../../../img/products/gps/14.jpg",
+      "../../../img/products/gps/11.png",
+      "../../../img/products/gps/13.jpg"
     ],
     "precio_venta": 295000,
-    "precio_regular": 3840000,
+    "precio_regular": 384000,
     "create_at": "2023-05-25T12:05:24.150x",
-    "slug": "tipo-gps"
+    "slug": "tipo-gps-HCV5"
 
   },
   {
@@ -41,14 +41,14 @@
     "categoria":["vehicular", "gps"],
     "imageUrl":[
       "../../../img/products/gps/3.jpeg",
-      "../../../img/products/gps/1.jpeg",
-      "../../../img/products/gps/2.jpeg",
-      "../../../img/products/gps/4.jpeg"
+      "../../../img/products/gps/12.jpg",
+      "../../../img/products/gps/11.png",
+      "../../../img/products/gps/14.jpg"
     ],
     "precio_venta": 305000,
     "precio_regular": 420000,
     "create_at": "2023-05-25T12:05:24.150x",
-    "slug": "tipo-gps"
+    "slug": "tipo-gps-FM-Pro4"
 
   },
   {
@@ -58,14 +58,14 @@
     "categoria":["vehicular", "gps"],
     "imageUrl":[
       "../../../img/products/gps/4.jpeg",
-      "../../../img/products/gps/1.jpeg",
-      "../../../img/products/gps/2.jpeg",
-      "../../../img/products/gps/3.jpeg"
+      "../../../img/products/gps/11.png",
+      "../../../img/products/gps/12.jpg",
+      "../../../img/products/gps/13.jpg"
     ],
     "precio_venta": 185000,
     "precio_regular": 235000,
     "create_at": "2023-05-25T12:05:24.150x",
-    "slug": "tipo-gps"
+    "slug": "tipo-gps-ST3310/W/R"
 
   }
 ]
